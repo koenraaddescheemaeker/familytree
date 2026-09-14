@@ -1,0 +1,10 @@
+project_id = "yrcruhjjcoqfvcvhvjum"
+
+[functions.notify-moderator]
+verify_jwt = false
+
+[functions.send-update-notification]
+verify_jwt = false
+
+[functions.get-registered-users]
+verify_jwt = false
